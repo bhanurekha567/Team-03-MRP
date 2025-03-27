@@ -33,3 +33,15 @@ Based on this analysis, the system:
 -  Power BI dashboard for visual insights and summaries
 -  Highlights areas for improvement to boost job readiness
 -  Includes video walkthrough (coming soon)
+## Contributing
+
+We welcome contributions from team members and collaborators!
+
+If you'd like to improve this project, feel free to:
+
+- Fork the repository
+- Create a new branch
+- Make your changes
+- Submit a pull request (PR)
+
+For major changes, please open an issue first to discuss your ideas.
