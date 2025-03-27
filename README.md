@@ -23,3 +23,11 @@ Based on this analysis, the system:
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+## ✨ Features
+
+-  Matches students to suitable job roles based on their skills and preferences
+-  Considers location preferences and job role interest
+-  Identifies skill gaps by comparing student skills to role requirements
+-  Power BI dashboard for visual insights and summaries
+-  Highlights areas for improvement to boost job readiness
+-  Includes video walkthrough (coming soon)
