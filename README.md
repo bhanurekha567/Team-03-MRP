@@ -6,13 +6,10 @@ The Graduate Career Recommendation System is a data-driven solution aimed at hel
 
 This system analyzes:
 - Technical and soft skills provided by the student
-- Preferred job role and location
-- Work experience (if available)
-- Existing skill gaps compared to the target roles
+- Preferred job location
+- Existing skills
 
 Based on this analysis, the system:
 - Recommends job roles that best match the student’s profile
-- Highlights missing or weak skills for those roles
-- Provides guidance to improve job readiness and align with market demands
-
-The goal is to empower students with personalized insights that can help them transition smoothly from education to employment.
+- Analyses the skill_Gap for the role they get match
+- Offers insights and recommendations to help student
