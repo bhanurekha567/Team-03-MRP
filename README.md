@@ -13,15 +13,16 @@ Based on this analysis, the system:
 - Recommends job roles that best match the student’s profile
 - Analyses the skill_Gap for the role they get match
 - Offers insights and recommendations to help student
-## Table of Contents
-## Project Description
-## Installation
-## Usage
-## Features
-## Power BI Dashboard
-## Contributing
-## License
-## Acknowledgements
+## 📚 Table of Contents
+
+- [Project Description](#project-description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 
 ## Features
