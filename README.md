@@ -1,6 +1,6 @@
 # Graduate Career Recommendation System 
 A project to enhance job readiness by matching graduate skills with job market demands.
-## 📄 Project Description
+## Project Description
 
 The Graduate Career Recommendation System is a data-driven solution aimed at helping students identify the most suitable job roles based on their current skill sets and preferences.
 
