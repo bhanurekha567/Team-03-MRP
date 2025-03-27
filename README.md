@@ -45,3 +45,9 @@ If you'd like to improve this project, feel free to:
 - Submit a pull request (PR)
 
 For major changes, please open an issue first to discuss your ideas.
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+That means it’s open to the public — anyone can view, use, modify, and share the project for personal or academic use.
+
