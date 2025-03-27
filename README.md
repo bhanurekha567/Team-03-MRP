@@ -15,14 +15,15 @@ Based on this analysis, the system:
 - Offers insights and recommendations to help student
 ## 📚 Table of Contents
 
-- [Project Description](#-project-description)
+- [Project Description](#project-description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Power BI Dashboard](#-power-bi-dashboard)
+- [Power BI Dashboard](#power-bi-dashboard)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+
 ## ✨ Features
 
 -  Matches students to suitable job roles based on their skills and preferences
