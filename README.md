@@ -23,7 +23,7 @@ Based on this analysis, the system:
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
-## Installation / Setup
+## Installation
 
 To run or explore this project locally, follow these simple steps:
 
@@ -42,6 +42,29 @@ To run or explore this project locally, follow these simple steps:
    - Graduation Year
    - Preferred Job Location
    - Employment Status
+     ##  Usage
+
+To use the Power BI dashboard:
+
+1. **Open the `MRP.pbix` file** using Power BI Desktop  
+   (Download Power BI: https://powerbi.microsoft.com/desktop)
+
+2. **Use the filters at the top** to interact with the data:
+   - Role
+   - Gender
+   - Graduation Year
+   - Preferred Job Location
+   - Employment Status
+
+3. Explore the visuals:
+   - Employment by job role (bar chart)
+   - Career level distribution (pie chart)
+   - Employment trends over time (line graph)
+   - Average computer skill scores
+   - Total employed people count
+
+> The dashboard is fully interactive. You can mix and match filters to see how employment trends and skill data change based on your selections.
+
 
 
 ## Features
