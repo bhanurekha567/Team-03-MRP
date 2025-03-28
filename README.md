@@ -42,7 +42,7 @@ To run or explore this project locally, follow these simple steps:
    - Graduation Year
    - Preferred Job Location
    - Employment Status
-     ##  Usage
+##  Usage
 
 To use the Power BI dashboard:
 
