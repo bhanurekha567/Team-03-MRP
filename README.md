@@ -83,7 +83,6 @@ It helps identify:
 ## Dashboard Preview
 Below is a snapshot of the dashboard created in Power BI to analyze graduate career recommendations:
 ![Dashboard Screenshot](Images/Image1.jpeg)
-![Additional Dashboard View](Images/Image2.jpeg)
 
 ## Contributing
 
