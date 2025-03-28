@@ -50,4 +50,11 @@ For major changes, please open an issue first to discuss your ideas.
 This project is licensed under the [MIT License](LICENSE).
 
 That means it’s open to the public — anyone can view, use, modify, and share the project for personal or academic use.
+## Acknowledgements
+
+We would like to thank our professor for guiding us through this project.
+
+Special thanks to:
+- Our team members for their support and collaboration
+- Power BI, Visual studio and Git for the tools used to build this project
 
