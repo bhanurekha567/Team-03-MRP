@@ -23,6 +23,25 @@ Based on this analysis, the system:
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+## Installation / Setup
+
+To run or explore this project locally, follow these simple steps:
+
+1. **Download the Power BI dashboard file**  
+   - File name: `MRP_Updated(1).pbix`  
+   - You can find it in the main repository folder
+
+2. **Install Power BI Desktop**  
+   - Download from: [https://powerbi.microsoft.com/desktop](https://powerbi.microsoft.com/desktop)
+
+3. **Open the `.pbix` file in Power BI Desktop**
+
+4. Explore the dashboard using available filters:
+   - Role
+   - Gender
+   - Graduation Year
+   - Preferred Job Location
+   - Employment Status
 
 
 ## Features
