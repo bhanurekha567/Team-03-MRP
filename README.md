@@ -33,6 +33,16 @@ Based on this analysis, the system:
 -  Power BI dashboard for visual insights and summaries
 -  Highlights areas for improvement to boost job readiness
 -  Includes video walkthrough (coming soon)
+## Power BI Dashboard
+
+This dashboard visualizes graduate employment insights using filters like role, gender, graduation year, preferred job location, and employment status.
+
+It helps identify:
+- Top job roles by employment
+- Career levels of graduates (Entry, Associate, Mid)
+- Trends in employment over the years
+- Average computer skills scores
+
 ## Contributing
 
 We welcome contributions from team members and collaborators!
