@@ -63,10 +63,6 @@ To use the Power BI dashboard:
    - Average computer skill scores
    - Total employed people count
 
-> The dashboard is fully interactive. You can mix and match filters to see how employment trends and skill data change based on your selections.
-
-
-
 ## Features
 
 -  Matches students to suitable job roles based on their skills and preferences
