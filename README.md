@@ -28,7 +28,7 @@ Based on this analysis, the system:
 To run or explore this project locally, follow these simple steps:
 
 1. **Download the Power BI dashboard file**  
-   - File name: `MRP_Updated(1).pbix`  
+   - File name: `MRP_final(2).pbix`  
    - You can find it in the main repository folder
 
 2. **Install Power BI Desktop**  
