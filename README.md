@@ -82,7 +82,9 @@ It helps identify:
 - Average computer skills scores
 ## Dashboard Preview
 Below is a snapshot of the dashboard created in Power BI to analyze graduate career recommendations:
-![Dashboard Screenshot](Images/Image1.jpeg)
+Brief overview of the dashboard purpose.
+- Guidance on navigating the tool.
+- Explanation of key components like skill assessment, gap identification, and job insights.
 
 ![Dashboard Screenshot](Images/mrp_img1.png)
 
