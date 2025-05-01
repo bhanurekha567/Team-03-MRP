@@ -58,17 +58,17 @@ To use the Power BI dashboard:
 
 3. **Explore the visuals:**
    
-•	Displays suitable job roles based on skill overlap.
-•	Course duration in weeks.(card)
-•	Effort required per week.(Bargraph)
-•	Skill difficulty percentage (e.g., Remaining vs. Covered).
-•	Heatmap of job availability by state.
-•	Bar chart of open roles in selected region.
-•	Pie chart showing hiring companies.
-•	Line chart for salary ranges by role.
-•	Horizontal bar chart of Top 5 In-Demand Roles
-•	Vertical bar chart showing Top 5 Skills to Learn
-•	Pie chart of Top Hiring Companies
+- Displays suitable job roles based on skill overlap.
+-	Course duration in weeks.(card)
+-	Effort required per week.(Bargraph)
+-	Skill difficulty percentage (e.g., Remaining vs. Covered).
+-	Heatmap of job availability by state.
+-	Bar chart of open roles in selected region.
+-	Pie chart showing hiring companies.
+-	Line chart for salary ranges by role.
+-	Horizontal bar chart of Top 5 In-Demand Roles
+-	Vertical bar chart showing Top 5 Skills to Learn
+-	Pie chart of Top Hiring Companies
 
 
 ## Features
