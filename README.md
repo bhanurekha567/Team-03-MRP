@@ -56,7 +56,7 @@ To use the Power BI dashboard:
    - Company
    - Role
 
-3. Explore the visuals:
+3. **Explore the visuals:**
    - Employment by job role (bar chart)
    - Career level distribution (pie chart)
    - Employment trends over time (line graph)
@@ -87,6 +87,7 @@ Brief overview of the dashboard purpose.
 - Explanation of key components like skill assessment, gap identification, and job insights.
 
 ![Dashboard Screenshot](Images/mrp_img1.png)
+
 **Skill Match**
 - Allows users to select their known skills.
 - Displays suitable job roles based on skill overlap.
