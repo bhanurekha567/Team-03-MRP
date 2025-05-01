@@ -37,11 +37,11 @@ To run or explore this project locally, follow these simple steps:
 3. **Open the `.pbix` file in Power BI Desktop**
 
 4. Explore the dashboard using available filters:
+   - Select the skills you know
+   - Select the skills to learn
+   - State
+   - Company
    - Role
-   - Gender
-   - Graduation Year
-   - Preferred Job Location
-   - Employment Status
 ##  Usage
 
 To use the Power BI dashboard:
@@ -50,11 +50,11 @@ To use the Power BI dashboard:
    (Download Power BI: https://powerbi.microsoft.com/desktop)
 
 2. **Use the filters at the top** to interact with the data:
+   - Select the skills you know
+   - Select the skills to learn
+   - State
+   - Company
    - Role
-   - Gender
-   - Graduation Year
-   - Preferred Job Location
-   - Employment Status
 
 3. Explore the visuals:
    - Employment by job role (bar chart)
@@ -65,12 +65,12 @@ To use the Power BI dashboard:
 
 ## Features
 
--  Matches students to suitable job roles based on their skills and preferences
--  Considers location preferences and job role interest
--  Identifies skill gaps by comparing student skills to role requirements
--  Power BI dashboard for visual insights and summaries
--  Highlights areas for improvement to boost job readiness
--  Includes video walkthrough (coming soon)
+🔄 **Interactive filtering** across all tabs.
+- 🎯 **Personalized role suggestions** based on input skills.
+- 🎓 **Course recommendations** with direct links and effort breakdown.
+- 🌎 **Job insights** segmented by geography and employer.
+- 📈 **Visualizations** for skill difficulty, effort per week, and market trends.
+
 ## Power BI Dashboard
 
 This dashboard visualizes graduate employment insights using filters like role, gender, graduation year, preferred job location, and employment status.
@@ -83,6 +83,7 @@ It helps identify:
 ## Dashboard Preview
 Below is a snapshot of the dashboard created in Power BI to analyze graduate career recommendations:
 ![Dashboard Screenshot](Images/Image1.jpeg)
+![Skill Gap](path/to/skill_gap.png)
 
 ## Contributing
 
