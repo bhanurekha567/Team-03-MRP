@@ -114,7 +114,7 @@ Brief overview of the dashboard purpose.
   - Bar chart of open roles in selected region.
   - Pie chart showing hiring companies.
   - Line chart for salary ranges by role.
-![Dashboard Screenshot](Images/mrp_img4.png
+![Dashboard Screenshot](Images/mrp_img4.png)
 
 **Overall Analysis**
 Visuals include:
