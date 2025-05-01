@@ -87,6 +87,35 @@ Brief overview of the dashboard purpose.
 - Explanation of key components like skill assessment, gap identification, and job insights.
 
 ![Dashboard Screenshot](Images/mrp_img1.png)
+**Skill Match**
+- Allows users to select their known skills.
+- Displays suitable job roles based on skill overlap.
+- Shows a match percentage and highlights any missing skills for those roles.
+
+![Dashboard Screenshot](Images/mrp_img2.png)
+**Skill Gap**
+- Users can select a missing skill to view recommended learning resources.
+- Displays:
+  - Course duration in weeks.
+  - Effort required per week.
+  - Course link and provider.
+  - Skill difficulty percentage (e.g., Remaining vs. Covered).
+  - Suggested certification if available.
+![Dashboard Screenshot](Images/mrp_img3.png)
+**Job Market**
+- Filters available for:
+  - State/Region
+  - Company
+  - Role
+- Visuals include:
+  - Total job postings.
+  - Heatmap of job availability by state.
+  - Bar chart of open roles in selected region.
+  - Pie chart showing hiring companies.
+  - Line chart for salary ranges by role.
+![Dashboard Screenshot](Images/mrp_img4.png)
+
+![Dashboard Screenshot](Images/mrp_img5.png)
 
 ## Contributing
 
