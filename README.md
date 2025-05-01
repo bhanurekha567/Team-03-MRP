@@ -57,6 +57,7 @@ To use the Power BI dashboard:
    - Role
 
 3. **Explore the visuals:**
+   
 •	Displays suitable job roles based on skill overlap.
 •	Course duration in weeks.(card)
 •	Effort required per week.(Bargraph)
