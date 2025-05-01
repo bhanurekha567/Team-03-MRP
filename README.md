@@ -57,11 +57,18 @@ To use the Power BI dashboard:
    - Role
 
 3. **Explore the visuals:**
-   - Employment by job role (bar chart)
-   - Career level distribution (pie chart)
-   - Employment trends over time (line graph)
-   - Average computer skill scores
-   - Total employed people count
+•	Displays suitable job roles based on skill overlap.
+•	Course duration in weeks.(card)
+•	Effort required per week.(Bargraph)
+•	Skill difficulty percentage (e.g., Remaining vs. Covered).
+•	Heatmap of job availability by state.
+•	Bar chart of open roles in selected region.
+•	Pie chart showing hiring companies.
+•	Line chart for salary ranges by role.
+•	Horizontal bar chart of Top 5 In-Demand Roles
+•	Vertical bar chart showing Top 5 Skills to Learn
+•	Pie chart of Top Hiring Companies
+
 
 ## Features
 
