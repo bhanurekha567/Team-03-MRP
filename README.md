@@ -94,7 +94,7 @@ Below is a snapshot of the dashboard created in Power BI to analyze graduate car
 Brief overview of the dashboard purpose.
 - Guidance on navigating the tool.
 - Explanation of key components like skill assessment, gap identification, and job insights.
-![Dashboard Screenshot](Images/mrp_img1.png)
+![Dashboard Screenshot](mrp_img1.png)
 
 **Skill Match**
 - Allows users to select their known skills.
