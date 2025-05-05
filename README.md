@@ -126,16 +126,16 @@ Brief overview of the dashboard purpose.
 
 **Overall Analysis**
 Visuals include:
-
-Horizontal bar chart of Top 5 In-Demand Roles
-
-Vertical bar chart showing Top 5 Skills to Learn
-
-Pie chart of Top Hiring Companies
-
-Insight text block summarizing market demand and skill recommendations
-
+- Horizontal bar chart of Top 5 In-Demand Roles
+- Vertical bar chart showing Top 5 Skills to Learn
+- Pie chart of Top Hiring Companies
+- Insight text block summarizing market demand and skill recommendations
 ![Dashboard Screenshot](mrp_img5.png)
+
+**Conclusion**
+- Helps users find the right job roles based on their skills.
+  ![Dashboard Screenshot](mrp_img6.png)
+
 
 ## Contributing
 
