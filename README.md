@@ -151,9 +151,12 @@ If you'd like to improve this project, feel free to:
 For major changes, please open an issue first to discuss your ideas.
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project uses the **Software Engineer Jobs & Salaries 2024** dataset, provided by Emre Öksüz on Kaggle.
+- 📁 Dataset Source: [Kaggle - Software Engineer Jobs & Salaries 2024](https://www.kaggle.com/datasets/emreksz/software-engineer-jobs-salaries-2024)
+- 📝 License: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 That means it’s open to the public — anyone can view, use, modify, and share the project for personal or academic use.
+
 ## Acknowledgements
 
 We would like to thank our professor for guiding us through this project.
