@@ -1,18 +1,19 @@
-# Graduate Career Recommendation System 
-A project to enhance job readiness by matching graduate skills with job market demands.
+# Skill-Set Match - Career Recommendation System 
+A project compares a user's current skills with the requirements of various job roles.
 ## Project Description
 
-The Graduate Career Recommendation System is a data-driven solution aimed at helping students identify the most suitable job roles based on their current skill sets and preferences.
+SkillMatchSet is a data-driven dashboard designed to help students and job seekers identify the most suitable job roles based on their current skills, learning preferences, and career goals.
 
 This system analyzes:
-- Technical and soft skills provided by the student
+- Technical skills provided by the student
 - Preferred job location
-- Existing skills
+- iMssing skills relevant to job roles
 
 Based on this analysis, the system:
-- Recommends job roles that best match the student’s profile
-- Analyses the skill_Gap for the role they get match
-- Offers insights and recommendations to help student
+- Recommends top-matching job roles based on skill alignment
+- Identifies specific skill gaps for each matched role
+- Suggests personalized courses to bridge those gaps
+- Provides job market insights including hiring companies, salary range, and demand trends
 ## 📚 Table of Contents
 
 - [Project Description](#project-description)
