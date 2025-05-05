@@ -100,8 +100,8 @@ Brief overview of the dashboard purpose.
 - Allows users to select their known skills.
 - Displays suitable job roles based on skill overlap.
 - Shows a match percentage and highlights any missing skills for those roles.
-
 ![Dashboard Screenshot](mrp_img2.png)
+
 **Skill Gap**
 - Users can select a missing skill to view recommended learning resources.
 - Displays:
@@ -111,8 +111,9 @@ Brief overview of the dashboard purpose.
   - Skill difficulty percentage (e.g., Remaining vs. Covered).
   - Suggested certification if available.
 ![Dashboard Screenshot](mrp_img3.png)
+
 **Job Market**
-- Filters available for:
+Filters available for
   - State/Region
   - Company
   - Role
