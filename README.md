@@ -95,8 +95,6 @@ Brief overview of the dashboard purpose.
 - Guidance on navigating the tool.
 - Explanation of key components like skill assessment, gap identification, and job insights.
 
-![Dashboard Screenshot](Images/mrp_img1.png)
-
 **Skill Match**
 - Allows users to select their known skills.
 - Displays suitable job roles based on skill overlap.
