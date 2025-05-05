@@ -113,7 +113,7 @@ Brief overview of the dashboard purpose.
 ![Dashboard Screenshot](mrp_img3.png)
 
 **Job Market**
-Filters available for
+
   - State/Region
   - Company
   - Role
